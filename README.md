@@ -6,12 +6,12 @@ See that repository for documentation.
 
 # Release
 
-The current release is 0.1.5.
+The current release is 0.1.6.
 
 
 [CLI/`deps.edn`](https://clojure.org/reference/deps_edn) dependency information:
 ```clojure
-io.github.clojure/clr.tools.deps.cli {:git/tag "v0.1.5" :git/sha "a7d281a" }
+io.github.clojure/clr.tools.deps.cli {:git/tag "v0.1.6" :git/sha "91afd49" }
 ```
 
 ## License
